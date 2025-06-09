@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\My Projects\\Flappy Bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|e:\\unity\\my projects\\flappy bird\\assets\\script\\logichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\logichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|E:\\Unity\\My Projects\\Flappy Bird\\assets\\script\\spawnpipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawnpipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|E:\\Unity\\My Projects\\Flappy Bird\\assets\\script\\movebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|E:\\Unity\\My Projects\\Flappy Bird\\assets\\script\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|E:\\Unity\\My Projects\\Flappy Bird\\assets\\script\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|E:\\Unity\\My Projects\\Flappy Bird\\assets\\script\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pipemiddlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|E:\\Unity\\My Projects\\Flappy Bird\\assets\\script\\cloudspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E10C7-98A1-E18C-E3D1-1B0603687006}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cloudspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerScript.cs",
+              "ToolTip": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerScript.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:40:57.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraShake.cs",
+              "ToolTip": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraShake.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:13:52.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CloudSpawner.cs",
+              "DocumentMoniker": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\CloudSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CloudSpawner.cs",
+              "ToolTip": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\CloudSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\CloudSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:45:08.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PipeMiddleScript.cs",
+              "DocumentMoniker": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\PipeMiddleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PipeMiddleScript.cs",
+              "ToolTip": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\PipeMiddleScript.cs",
+              "RelativeToolTip": "Assets\\Script\\PipeMiddleScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:45:32.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogicHandler.cs",
+              "DocumentMoniker": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\LogicHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LogicHandler.cs",
+              "ToolTip": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\LogicHandler.cs",
+              "RelativeToolTip": "Assets\\Script\\LogicHandler.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:41:04.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnPipe.cs",
+              "DocumentMoniker": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\SpawnPipe.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpawnPipe.cs",
+              "ToolTip": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\SpawnPipe.cs",
+              "RelativeToolTip": "Assets\\Script\\SpawnPipe.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBoAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:44:23.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveBehaviour.cs",
+              "DocumentMoniker": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\MoveBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MoveBehaviour.cs",
+              "ToolTip": "E:\\Unity\\My Projects\\Flappy Bird\\Assets\\Script\\MoveBehaviour.cs",
+              "RelativeToolTip": "Assets\\Script\\MoveBehaviour.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:40:25.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
