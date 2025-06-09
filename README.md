@@ -1,1 +1,2 @@
-[v0.2 Downlad](sha256:afd24ff25df7e7bc7579cd844e59a7bdd0e92eb5be87c909aae71da2f504bb60)
+[v0.2 Download](https://github.com/Pierric0/Flappy_Bird/releases/tag/v0.2)
+[v0.1 Download](https://github.com/Pierric0/Flappy_Bird/releases/tag/v0.1)
